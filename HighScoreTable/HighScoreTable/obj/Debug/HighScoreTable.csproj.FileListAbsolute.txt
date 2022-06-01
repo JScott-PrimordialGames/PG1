@@ -1,0 +1,15 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.AssemblyReference.cache
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\zerop\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
